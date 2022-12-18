@@ -1,0 +1,2 @@
+repository 변경 후 push하니 repository에 있는 파일 삭제되고 push한 파일만 올라감
+: clone
