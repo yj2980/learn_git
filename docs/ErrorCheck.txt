@@ -1,0 +1,5 @@
+warning : CRLF will be replaced by lf in...
+solving : git config --global core.autocrlf true (windows)
+	: git config --global core.autocrlf true input (mac) 
+if you want to turn off the conversion function
+	: git config --global core.safecrlf false
